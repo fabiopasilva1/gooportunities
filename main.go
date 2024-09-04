@@ -1,5 +1,8 @@
-
 package main
-func main(){
-	println("Hello, World!")
+
+import "github.com/fabiopasilva1/gooportunities/router"
+
+func main() {
+	// Initialize Router
+	router.Initialize()
 }
