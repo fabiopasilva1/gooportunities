@@ -13,3 +13,6 @@ type Opening struct {
 	Link     string
 	Salary   int64
 }
+
+type OpeningResponse struct {
+}
